@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # Smart Student Portal
-Deployed link : https://onboardingagent.netlify.app/
-
+Deployed link :https://onboardingagent0444.netlify.app/
 A modern, professional Single Page Application (SPA) for student onboarding and management.
 
 ## 🚀 Quick Start
@@ -72,3 +71,4 @@ Enter any email and password to access the portal.
 ideaton 1.0
 >>>>>>> 76f853059e830cb585df85b66fe33d0fa156852a
 "# IDEA-HACKATHON-" 
+
